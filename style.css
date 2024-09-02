@@ -1,0 +1,121 @@
+body{
+    text-align: center;
+    margin: 50px 0px 0px 50px;
+    
+    
+}
+#begin{
+    background-color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    width: 40%;
+    
+    height: 20px;
+    text-align: center;
+    margin: 2% 2% 2% 2%;
+    padding: 28px 0px;
+
+
+}
+#blue{
+    display: inline-block;
+    color: blue;
+}
+.div1{
+    background-color: white;
+    color: white;
+    width: 60%;
+    height: 60px;
+    text-align: center;
+    margin: 2% 2% 2% 2%;
+    padding: 28px 14px;
+    
+
+}
+
+
+
+#in{
+    display: inline-block;
+    background-color: green;
+    float: left;
+    color: white;
+    margin: 18px 2px 2px 2px;
+    padding: 2px 2px;
+    width: 90px;
+    height: 25px;
+    border: 2px solid green;
+}
+
+#labelAndInput{
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    margin: 0%;
+
+}
+
+
+input{
+    margin: 0%;
+    width: 75px;
+    height: 25px;
+    background-color: white;
+    border: 2px solid green;
+    text-align: center;
+   
+}
+label{
+    color: black;
+    text-align: center;
+    
+
+}
+
+#out{
+    display: inline-block;
+    background-color: blue;
+    float: left;
+    color: white;
+    margin: 18px 2px 2px 2px;
+    padding: 2px 2px;
+    width: 90px;
+    height: 25px;
+    border: 2px solid blue;
+}
+
+
+#note{
+    display: inline-block;
+    background-color: red;
+    float: left;
+    color: white;
+    margin: 18px 2px 2px 2px;
+    padding: 2px 2px;
+    width: 90px;
+    height: 25px;
+    border: 2px solid red;
+}
+#rule{
+    text-align: left;
+    display: inline-block;
+    color: black;
+}
+
+.po{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: gray;
+    margin: 10px 20px 0px 20px;
+
+}
+ 
+.ro{
+    display: inline-block;
+    width: 100px;
+    height: 80px;
+    
+    text-align: center;
+}
